@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CISESPORT", "CISESPORT\CISESPORT.csproj", "{CC9BF51F-661B-484D-BE65-BB5AF0C6041E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9BF51F-661B-484D-BE65-BB5AF0C6041E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9BF51F-661B-484D-BE65-BB5AF0C6041E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9BF51F-661B-484D-BE65-BB5AF0C6041E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9BF51F-661B-484D-BE65-BB5AF0C6041E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {795DB254-AFA5-4BCB-9808-F9F28D4C5E41}
+	EndGlobalSection
+EndGlobal
